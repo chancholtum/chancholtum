@@ -8,7 +8,7 @@ I worked as a Business Development Engineer for 4 years. I'd like to do somethin
 
 * 🖥️  See my portfolio at [HERE](http://chanchol-portfolio.netlify.app/)
 * ✉️  You can contact me at [chancholtum@gmail.com](mailto:chancholtum@gmail.com)
-* 🧠  I'm learning I'm learning NEXT.js
+* 🧠  I'm learning NEXT.js
 
 ### Skills
 
